@@ -1,2 +1,2 @@
-# erro-deploy
-problema com o deploy 
+# Erro- ao executar o manage runserver
+
